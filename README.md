@@ -18,6 +18,7 @@ TODO:
 ## Introduction
 
 * Flexible Spaces
+* Permutation Encryption
 * Secret Message
 * T9 Spelling
 * Toilet Seat
